@@ -220,7 +220,7 @@ def energie_bars(robot1_energy,robot2_energy):
 pygame.init()
 pygame.mixer.init()
 screen = pygame.display.set_mode((WIDTH,HEIGHT))
-pygame.display.set_caption("BOYNER")
+pygame.display.set_caption("ROBOWAR")
 clock = pygame.time.Clock()
 
 #Groups
